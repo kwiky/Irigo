@@ -17,15 +17,7 @@ CREATE TABLE IF NOT EXISTS `arrets` (
   `lat` int(11) DEFAULT NULL,
   `long` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
-
---
--- Contenu de la table `arrets`
---
-
-INSERT INTO `arrets` (`id`, `nom`, `lat`, `long`) VALUES
-(1, 'Angers - Roseraie', NULL, NULL),
-(2, 'Jean XXIII', NULL, NULL);
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=18 ;
 
 -- --------------------------------------------------------
 
@@ -41,15 +33,7 @@ CREATE TABLE IF NOT EXISTS `horaires` (
   `arret_id` smallint(5) unsigned NOT NULL,
   `horaire` time NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
-
---
--- Contenu de la table `horaires`
---
-
-INSERT INTO `horaires` (`id`, `ligne_id`, `sens`, `arret_id`, `horaire`) VALUES
-(1, 1, 1, 1, '05:51:00'),
-(2, 1, 1, 2, '05:54:00');
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=667 ;
 
 -- --------------------------------------------------------
 
@@ -67,13 +51,6 @@ CREATE TABLE IF NOT EXISTS `lignes` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
 
---
--- Contenu de la table `lignes`
---
-
-INSERT INTO `lignes` (`id`, `numero`, `type_ligne_id`, `nom`, `couleur`) VALUES
-(1, 'A', 1, 'Angers Roseraie – Avrillé Ardenne', '#ff0000');
-
 -- --------------------------------------------------------
 
 --
@@ -89,14 +66,6 @@ CREATE TABLE IF NOT EXISTS `sens` (
   PRIMARY KEY (`ligne_id`,`sens`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Contenu de la table `sens`
---
-
-INSERT INTO `sens` (`ligne_id`, `sens`, `depuis`, `vers`) VALUES
-(1, 1, 'Angers Roseraie', 'Avrillé Ardenne'),
-(1, 2, 'Avrillé Ardenne', 'Angers Roseraie');
-
 -- --------------------------------------------------------
 
 --
@@ -109,11 +78,3 @@ CREATE TABLE IF NOT EXISTS `type_lignes` (
   `libelle` text NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
-
---
--- Contenu de la table `type_lignes`
---
-
-INSERT INTO `type_lignes` (`id`, `libelle`) VALUES
-(1, 'Tramway'),
-(2, 'Bus');
