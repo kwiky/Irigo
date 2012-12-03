@@ -1,0 +1,44 @@
+1|CTA18|IRIGO#1|CTA73|01|Belle-Beille &lt;&gt; Monplaisir|Monplaisir|Belle Beille|5|Bus
+1|CTA18|IRIGO#2|CTA90|01d|Beaucouzé Hte R/ Val de Maine&lt;&gt;Eventard / Claverie|Eventard / Claverie|Beaucouzé / Val de Maine|5|Bus
+1|CTA18|IRIGO#3|CTA86|01s|Lac De Maine &lt;&gt; Monplaisir|Monplaisir|Lac de Maine|5|Bus
+1|CTA18|IRIGO#4|CTA74|02|Trélazé &lt;&gt; Banchais / St Sylvain|Banchais / Saint Sylvain|Trélazé|5|Bus
+1|CTA18|IRIGO#5|CTA91|02d|St Sylvain &lt;&gt; Trélazé|Saint Sylvain d'Anjou|Trélazé|5|Bus
+1|CTA18|IRIGO#6|CTA87|02s|Trélazé Buisson &lt;&gt; Lorraine|Lorraine|Trélazé Buisson|5|Bus
+1|CTA18|IRIGO#7|CTA75|03|Avrillé Adézière / Salette &lt;&gt; Mûrs-Erigné|Avrillé Adezière / Salette|Mûrs Erigné|5|Bus
+1|CTA18|IRIGO#8|CTA92|03d|Verneau / Monplaisir &lt;&gt; Mûrs Erigné|Verneau / Monplaisir|Mûrs Erigné|5|Bus
+1|CTA18|IRIGO#9|CTA88|03s|Mairie Des Ponts De Cé &lt;&gt; Avrillé Val D'Or|Avrillé Val d'Or|Mairie des Ponts de Cé|5|Bus
+1|CTA18|IRIGO#10|CTA76|04|Beaucouzé - Haute Roche / L'Atoll &lt;&gt; St Barthélemy|Saint Barthélemy|Beaucouzé - Haute Roche / L'Atoll|5|Bus
+1|CTA18|IRIGO#11|CTA93|04d|Lorraine &lt;&gt; Saint Barthélemy D'Anjou|St Barthélemy|Lorraine|5|Bus
+1|CTA18|IRIGO#12|CTA89|04s|Saint Barthélemy &lt;&gt; Lorraine|Saint Barthélemy|Lorraine|5|Bus
+1|CTA18|IRIGO#13|CTA193|05A|Direction Gares Brémont|Gares Brémont, sens 5A||5|Bus
+1|CTA18|IRIGO#14|CTA194|05B|Direction Gares Brémont|Gares Brémont, sens 5B||5|Bus
+1|CTA18|IRIGO#15|CTA78|06|Chantourteau / Bouchemaine /Val De Maine &lt;&gt; ZI Est|ZI Est|Chantourteau / Bouchemaine / Val de Maine|5|Bus
+1|CTA18|IRIGO#16|CTA79|07|Lorraine &lt;&gt; Montreuil / Juigné / Feneu|Montreuil / Juigné / Feneu|Lorraine|5|Bus
+1|CTA18|IRIGO#17|CTA94|07d|Montreuil &lt;&gt; Avrillé-Ardenne|Montreuil|Avrillé - Ardenne|5|Bus
+1|CTA18|IRIGO#18|CTA80|08|Verneau/ CHU&lt;&gt;Mairie Ponts De Cé/ Moulin Marcille|Verneau / CHU - Hôpital|Mairie des Ponts de Cé / Moulin Marcille|5|Bus
+1|CTA18|IRIGO#19|CTA81|09|Eventard / ZI Ecouflant &lt;&gt; Espace Anjou|Eventard / ZI Ecouflant|Espace Anjou|5|Bus
+1|CTA18|IRIGO#20|CTA82|10|Schweitzer &lt;&gt; St Lézin / ZI Trélazé / Sorges|Schweitzer|ZI Trélazé / St Lézin / Sorges / Beaumanoir|5|Bus
+1|CTA18|IRIGO#21|CTA83|11|Lac De Maine/ZI Beauc.&lt;&gt;Clin.de L'Anjou/Ste Gemmes|Lac de Maine / ZI Beaucouzé|Ste Gemmes / Clinique de l'Anjou|5|Bus
+1|CTA18|IRIGO#22|CTA95|11d|Clinique De L'Anjou &lt;&gt; Ste Gemmes|Clinique de l'Anjou|Ste Gemmes sur Loire|5|Bus
+1|CTA18|IRIGO#23|CTA84|12|Claverie/ Baronnerie &lt;&gt; Moulin Marcille/ Vernusson|Claverie / Baronnerie|Village Santé / Moulin Marcille / Vernusson|5|Bus
+1|CTA18|IRIGO#24|CTA207|12d|Village Santé &lt;&gt; Lorraine|Lorraine|Village Santé|5|Bus
+1|CTA18|IRIGO#25|CTA85|14|Les Gares &lt;&gt; Belle Beille|Gares Papin|Belle Beille|5|Bus
+1|CTA18|IRIGO#26|CTA165|30|Angers &lt;&gt; Plessis Gr &lt;&gt; Sarrigné|Plessis Grammoire / Sarrigné|Angers|5|Bus
+1|CTA18|IRIGO#27|CTA173|31|Angers &lt;&gt; Briollay|Briollay|Angers|5|Bus
+1|CTA18|IRIGO#28|CTA166|32|Angers &lt;&gt; Pellouailles &lt;&gt; Villevèque &lt;&gt; Soucelles|Pellouailles / Villevèque / Soucelles|Angers|5|Bus
+1|CTA18|IRIGO#29|CTA169|33|Angers &lt;&gt; Cantenay Epinard &lt;&gt; Feneu|Cantenay Epinard / Feneu|Angers|5|Bus
+1|CTA18|IRIGO#30|CTA167|34|Angers &lt;&gt; La Meignanne &lt;&gt; Le Plessis Macé|La Meignanne / Le Plessis Macé|Angers|5|Bus
+1|CTA18|IRIGO#31|CTA163|35|Angers &lt;&gt; St Lambert La P. &lt;&gt; St Léger Des B.|St Clément de la Place / St Léger des Bois|Angers|5|Bus
+1|CTA18|IRIGO#32|CTA170|36|Angers &lt;&gt; St Jean De L. &lt;&gt; St Martin Du F.|St Jean de Linières / St Martin du Fouilloux|Angers|5|Bus
+1|CTA18|IRIGO#33|CTA175|37|Angers &lt;&gt; Bouchemaine &lt;&gt; Savennières|Bouchemaine / Savennières|Angers|5|Bus
+1|CTA18|IRIGO#34|CTA168|38|Angers &lt;&gt; St Lambert La P. &lt;&gt; St Clément De La P.|St Lambert la Potherie / St Clément de la Place|Angers|5|Bus
+1|CTA18|IRIGO#35|CTA164|39|Angers &lt;&gt; La Membrolle Sur Longuenée|La Membrolle sur Longuenée|Angers|5|Bus
+1|CTA18|IRIGO#36|CTA171|41|Angers &lt;&gt; Soulaines Sur Aubance|Soulaines sur Aubance|Angers|5|Bus
+1|CTA18|IRIGO#37|CTA172|42|Angers &lt;&gt; Ecouflant|Ecouflant|Angers|5|Bus
+1|CTA18|IRIGO#38|CTA189|43|Angers &lt;&gt; Cantenay &lt;&gt; Soulaire et Bourg &lt;&gt; Ecuillé|Angers &gt; Cantenay / Soulaire et Bourg / Ecuillé|Ecuillé / Soulaire et Bourg / Cantenay &gt; Angers|5|Bus
+1|CTA18|IRIGO#39|CTA72|A|Angers - Roseraie &lt;&gt; Avrillé - Ardenne|Avrillé - Ardenne|Angers - Roseraie|16|Tramway
+1|CTA18|IRIGO#51|CTA131|IrigoTaxi |IrigoTaxi 1|Avrillé Intermarché|Meignanne/Plessis M/Membrolle/Montreuil/Cantenay/F|11|Taxi
+1|CTA18|IRIGO#49|CTA132|IrigoTaxi |IrigoTaxi 2|St Clément/St Lambert/St Jean/St Martin/St Léger|Beaucouze Bourg de Paille|11|Taxi
+1|CTA18|IRIGO#48|CTA157|IrigoTaxi |IrigoTaxi 3|Briollay/Pellouailles/Villeveque/Soucelles/Plessis|Saint Sylvain|11|Taxi
+1|CTA18|IRIGO#50|CTA158|IrigoTaxi |IrigoTaxi 4|Bouchemaine|Trélazé|11|Taxi
+1|CTA18|IRIGO#52|CTA159|IrigoTaxi |IrigoTaxi 5|Mûrs Erigné|Soulaines sur Aubance|11|Taxi
