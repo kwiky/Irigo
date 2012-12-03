@@ -11,3 +11,15 @@ Line:1|CTA73|01|Belle-Beille <> Monplaisir|Monplaisir|Belle Beille|5|Bus
 NetworkList:1|CTA18|IRIGO
 DateFinBases:2013|06|30
 DateMajBases:2012|12|03
+
+== Horaires ==
+URL : http://angers.prod.navitia.com/Navitia/HP_4_HP.asp
+Parametres GET :
+Network:1|CTA18|IRIGO
+Line:1|CTA73|01|Belle-Beille <> Monplaisir|Monplaisir|Belle Beille|5|Bus
+Direction:1
+StopArea:7|CTA1241|Allonneau|Angers
+Date:2012|12|3
+NetworkList:1|CTA18|IRIGO
+DateFinBases:2013|06|30
+DateMajBases:2012|12|03
