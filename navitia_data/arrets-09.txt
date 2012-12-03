@@ -1,0 +1,42 @@
+8|CTA1246|André Leroy|Angers
+15|CTA2422|Arobase|Angers
+26|CTA2426|Berges de Maine|Angers
+32|CTA1287|Bois l'Abbé|Angers
+38|CTA1294|Bourgonnier|Angers
+45|CTA2079|Carrefour St Serge|Angers
+46|CTA2321|CCI|Angers
+76|CTA2430|Coubertin|Angers
+82|CTA171|Debussy|Angers
+97|CTA2123|Espace Anjou|Angers
+101|CTA1807|Faculté|Angers
+109|CTA2108|Félix Faure|Angers
+129|CTA1449|Hôtellerie|Angers
+130|CTA1454|Industrie|Angers
+135|CTA2439|Jean Bouin|Angers
+158|CTA1498|Lices|Angers
+175|CTA1511|Madeleine|Angers
+184|CTA1527|Michelet|Angers
+189|CTA2446|Molière|Angers
+203|CTA1475|Office de Tourisme|Angers
+208|CTA1558|Patinoire|Angers
+215|CTA1678|Place de l'Europe|Angers
+217|CTA2358|Place Hérault|Angers
+220|CTA2294|Plantagenêt|Angers
+223|CTA2125|Poissonnerie|Angers
+231|CTA1588|Ramon|Angers
+233|CTA2082|Rennes|Angers
+242|CTA102|République|Angers
+240|CTA1591|Route de Briollay|Angers
+245|CTA1614|Scania|Angers
+246|CTA2376|Schuman|Angers
+258|CTA1608|Ste Croix|Angers
+279|CTA1325|Volney|Angers
+407|CTA1359|Cottage|Ecouflant
+408|CTA1377|Du Bellay|Ecouflant
+409|CTA1401|Eventard|Ecouflant
+414|CTA1445|Hippodrome|Ecouflant
+415|CTA1524|IMTEC|Ecouflant
+417|CTA1492|Lemercier|Ecouflant
+421|CTA1578|Pomanjou|Ecouflant
+424|CTA1589|Rapidex|Ecouflant
+426|CTA1644|Valéo|Ecouflant

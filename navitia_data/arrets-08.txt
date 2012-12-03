@@ -1,0 +1,53 @@
+17|CTA1655|Auriol|Angers
+19|CTA1260|Ballour|Angers
+22|CTA1263|Barra|Angers
+27|CTA1283|Bichon|Angers
+28|CTA1284|Bigot|Angers
+30|CTA1286|Blandeau|Angers
+31|CTA1189|Blériot|Angers
+43|CTA1310|Capucins|Angers
+78|CTA1319|César Geoffray|Angers
+49|CTA2317|Chanzy|Angers
+55|CTA1330|Château|Angers
+54|CTA2429|CHU - Hôpital|Angers
+85|CTA1370|Descazeaux|Angers
+100|CTA1403|Fac De Médecine|Angers
+107|CTA1408|Frémond|Angers
+106|CTA1670|Front De Maine|Angers
+113|CTA1297|Gares Brémont|Angers
+115|CTA2322|Gares Semard|Angers
+126|CTA1450|Haute De Reculée|Angers
+154|CTA2118|Lecuit|Angers
+161|CTA1499|Lino Ventura|Angers
+179|CTA1520|Marianne|Angers
+186|CTA2356|Mirabeau|Angers
+193|CTA1534|Monprofit|Angers
+200|CTA1548|Mutualité|Angers
+218|CTA2346|Place La Fayette|Angers
+222|CTA1577|Poirel|Angers
+225|CTA1580|Pont Noir|Angers
+259|CTA1402|Ste Marie|Angers
+260|CTA1634|Ste Thérèse|Angers
+269|CTA1645|Valentin Hauy|Angers
+272|CTA1649|Vauban|Angers
+277|CTA68|Villesicard|Angers
+278|CTA1661|Viviers|Angers
+526|CTA1254|Athlétis|Les Ponts-de-Cé
+527|CTA1257|Authion|Les Ponts-de-Cé
+528|CTA2377|Baudrairie|Les Ponts-de-Cé
+529|CTA1279|Belle Poule|Les Ponts-de-Cé
+531|CTA1317|Centre commercial|Les Ponts-de-Cé
+535|CTA1372|Dionneau|Les Ponts-de-Cé
+538|CTA1406|François Villon|Les Ponts-de-Cé
+539|CTA1415|Gallieni|Les Ponts-de-Cé
+540|CTA1427|George Sand|Les Ponts-de-Cé
+541|CTA1441|Guillebotte|Les Ponts-de-Cé
+542|CTA1451|Huit Mai|Les Ponts-de-Cé
+544|CTA69|La Chesnaie|Les Ponts-de-Cé
+548|CTA1581|Mairie des Ponts de Ce|Les Ponts-de-Cé
+549|CTA1510|Marie Curie|Les Ponts-de-Cé
+551|CTA2378|Moulin Marcille|Les Ponts-de-Cé
+552|CTA1709|Patureaux|Les Ponts-de-Cé
+555|CTA2373|Rivet|Les Ponts-de-Cé
+556|CTA1600|Roncières|Les Ponts-de-Cé
+557|CTA1469|Rostand|Les Ponts-de-Cé

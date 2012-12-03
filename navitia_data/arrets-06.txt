@@ -1,0 +1,69 @@
+12|CTA2456|Aragon|Angers
+23|CTA1272|Beaurepaire|Angers
+25|CTA1276|Bellefontaine|Angers
+34|CTA2351|Bon Pasteur|Angers
+57|CTA1340|Cimetière de l'Est|Angers
+63|CTA1392|CNFPT|Angers
+80|CTA2298|De Farcy|Angers
+85|CTA1370|Descazeaux|Angers
+88|CTA1365|Deux Croix|Angers
+95|CTA91|Elysée|Angers
+98|CTA1268|ESSCA|Angers
+102|CTA82|Foch - Haras|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+104|CTA83|Foch - St Aubin|Angers
+106|CTA1670|Front De Maine|Angers
+113|CTA1297|Gares Brémont|Angers
+114|CTA114|Gares Papin|Angers
+117|CTA1421|Gaubert|Angers
+118|CTA1429|Gillier|Angers
+133|CTA2466|Isoret|Angers
+143|CTA1470|Jérusalem|Angers
+140|CTA1471|Joffre|Angers
+147|CTA1479|Lac de Maine Accueil|Angers
+148|CTA1481|Lac de Maine Nautique|Angers
+151|CTA1483|Lamartine|Angers
+155|CTA1491|Les Deniers|Angers
+157|CTA1420|Les Gâts|Angers
+158|CTA1498|Lices|Angers
+164|CTA41|Lorraine|Angers
+176|CTA1512|Mail|Angers
+191|CTA1463|Monnet|Angers
+193|CTA1534|Monprofit|Angers
+196|CTA90|Montesquieu|Angers
+203|CTA1475|Office de Tourisme|Angers
+209|CTA1202|Patton|Angers
+211|CTA1561|Perussaie|Angers
+223|CTA2125|Poissonnerie|Angers
+242|CTA102|République|Angers
+235|CTA2451|Robin|Angers
+258|CTA1608|Ste Croix|Angers
+266|CTA87|Trinité|Angers
+275|CTA2414|Victor Bernier|Angers
+358|CTA1624|Artaud|Bouchemaine
+359|CTA1293|Bouchemaine|Bouchemaine
+360|CTA2274|Brunelleries|Bouchemaine
+361|CTA1306|Camping De Bouchemaine|Bouchemaine
+362|CTA1225|Chantourteau|Bouchemaine
+363|CTA1230|Chataigneraie|Bouchemaine
+364|CTA1332|Chevrière|Bouchemaine
+365|CTA1350|Clos de la Vigne|Bouchemaine
+366|CTA1363|Croisette|Bouchemaine
+367|CTA1417|Gare De Bouchemaine|Bouchemaine
+368|CTA1434|Groupe commercial|Bouchemaine
+369|CTA2488|Harenchères|Bouchemaine
+370|CTA1443|Hauts de Bouchemaine|Bouchemaine
+371|CTA1485|La Pointe|Bouchemaine
+372|CTA1305|Lac de Maine Camping|Bouchemaine
+373|CTA1658|Les Vignes|Bouchemaine
+374|CTA2489|Petit Anjou|Bouchemaine
+375|CTA1563|Petit Port|Bouchemaine
+376|CTA1570|Piverdière|Bouchemaine
+378|CTA1579|Pont Laitier|Bouchemaine
+379|CTA1584|Pruniers|Bouchemaine
+380|CTA1711|Rangeardière|Bouchemaine
+381|CTA1643|Val de Maine|Bouchemaine
+567|CTA1291|Bosch|Saint-Barthélemy-d'Anjou
+571|CTA1354|Cointreau|Saint-Barthélemy-d'Anjou
+582|CTA1518|Maisons Rouges|Saint-Barthélemy-d'Anjou
+596|CTA1665|ZI Est|Saint-Barthélemy-d'Anjou

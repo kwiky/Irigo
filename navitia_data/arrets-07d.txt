@@ -1,0 +1,18 @@
+283|CTA2464|Avrillé - Ardenne|Avrillé
+296|CTA175|Croix Cadeau|Avrillé
+299|CTA1456|Intermarché Avrillé|Avrillé
+454|CTA1488|18 Juin|Montreuil-Juigné
+455|CTA2214|Allemagne|Montreuil-Juigné
+456|CTA1426|Autriche|Montreuil-Juigné
+457|CTA1398|Avenue de l'Europe|Montreuil-Juigné
+459|CTA1275|Bel Air|Montreuil-Juigné
+463|CTA2139|Danemark|Montreuil-Juigné
+464|CTA1366|De Beauvoir|Montreuil-Juigné
+465|CTA1397|Esperanto|Montreuil-Juigné
+467|CTA1459|Irlande|Montreuil-Juigné
+468|CTA1460|Italie|Montreuil-Juigné
+469|CTA1466|Jean Huez|Montreuil-Juigné
+471|CTA2102|Mastelle|Montreuil-Juigné
+472|CTA1506|Montreuil|Montreuil-Juigné
+474|CTA1573|Plateau Fleuri|Montreuil-Juigné
+475|CTA1541|République Montreuil|Montreuil-Juigné

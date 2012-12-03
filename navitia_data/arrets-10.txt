@@ -1,0 +1,52 @@
+35|CTA1289|Boreau|Angers
+44|CTA1312|Carnot|Angers
+48|CTA166|Chalouère|Angers
+81|CTA1368|De Lattre|Angers
+83|CTA1367|Delacroix|Angers
+91|CTA50|Dunant|Angers
+102|CTA82|Foch - Haras|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+104|CTA83|Foch - St Aubin|Angers
+108|CTA2438|Frémur|Angers
+114|CTA114|Gares Papin|Angers
+115|CTA2322|Gares Semard|Angers
+122|CTA2319|Guichard|Angers
+125|CTA1444|Haut Pressoir|Angers
+131|CTA1457|Intermarché Millot|Angers
+142|CTA55|Justices|Angers
+164|CTA41|Lorraine|Angers
+183|CTA140|Mendès France|Angers
+185|CTA1528|Millot|Angers
+198|CTA1543|Morellerie|Angers
+207|CTA1555|Parmentier|Angers
+213|CTA1732|Picasso|Angers
+219|CTA167|Place Ney|Angers
+222|CTA1577|Poirel|Angers
+225|CTA1580|Pont Noir|Angers
+247|CTA1616|Schweitzer|Angers
+261|CTA78|Strasbourg|Angers
+263|CTA1635|Talet|Angers
+267|CTA1642|Vaillante|Angers
+272|CTA1649|Vauban|Angers
+273|CTA1650|Vaugareau|Angers
+280|CTA2469|Voltaire|Angers
+550|CTA2277|Mauperthuis|Les Ponts-de-Cé
+554|CTA2224|Renou|Les Ponts-de-Cé
+561|CTA2225|Sorges|Les Ponts-de-Cé
+714|CTA1242|Allumettes|Trélazé
+715|CTA2379|Bahonneau|Trélazé
+716|CTA1271|Beaumanoir|Trélazé
+718|CTA1295|Bourse|Trélazé
+719|CTA2075|Buisson|Trélazé
+721|CTA1758|Clarté|Trélazé
+722|CTA2291|Dautel|Trélazé
+723|CTA2228|De Gaulle|Trélazé
+724|CTA1364|Dojo Daguerre|Trélazé
+727|CTA2271|Gentric|Trélazé
+729|CTA2292|La Fauvelais|Trélazé
+734|CTA1493|Léo Lagrange|Trélazé
+737|CTA1761|Malembardières ZI Trélazé|Trélazé
+739|CTA1679|Pyramide|Trélazé
+740|CTA2209|Riotteau|Trélazé
+741|CTA1603|Route n°4|Trélazé
+743|CTA2207|St Lézin|Trélazé

@@ -1,0 +1,46 @@
+27|CTA1283|Bichon|Angers
+44|CTA1312|Carnot|Angers
+62|CTA1351|Clouet|Angers
+93|CTA1390|Echman|Angers
+116|CTA1419|Gasnier|Angers
+119|CTA1430|Gouronnières|Angers
+128|CTA178|Hôtel Dieu|Angers
+146|CTA1596|La Rochefoucauld|Angers
+162|CTA1501|Lizé|Angers
+164|CTA41|Lorraine|Angers
+183|CTA140|Mendès France|Angers
+188|CTA1404|Mitterrand|Angers
+282|CTA2419|Acacias|Avrillé
+283|CTA2464|Avrillé - Ardenne|Avrillé
+288|CTA1281|Beurrière|Avrillé
+290|CTA1290|Brassens|Avrillé
+296|CTA175|Croix Cadeau|Avrillé
+299|CTA1456|Intermarché Avrillé|Avrillé
+300|CTA1476|Kennedy|Avrillé
+303|CTA2275|Langevin|Avrillé
+307|CTA1413|Maréchal Lyautey|Avrillé
+309|CTA2447|Oiseaux|Avrillé
+313|CTA1576|Poincaré|Avrillé
+432|CTA1180|Eglise De Feneu|Feneu
+454|CTA1488|18 Juin|Montreuil-Juigné
+455|CTA2214|Allemagne|Montreuil-Juigné
+456|CTA1426|Autriche|Montreuil-Juigné
+457|CTA1398|Avenue de l'Europe|Montreuil-Juigné
+458|CTA1280|Beau Site|Montreuil-Juigné
+459|CTA1275|Bel Air|Montreuil-Juigné
+460|CTA2203|Béné|Montreuil-Juigné
+461|CTA1307|Camping De Juigné|Montreuil-Juigné
+463|CTA2139|Danemark|Montreuil-Juigné
+464|CTA1366|De Beauvoir|Montreuil-Juigné
+465|CTA1397|Esperanto|Montreuil-Juigné
+466|CTA1718|ETAS Montreuil|Montreuil-Juigné
+467|CTA1459|Irlande|Montreuil-Juigné
+468|CTA1460|Italie|Montreuil-Juigné
+469|CTA1466|Jean Huez|Montreuil-Juigné
+470|CTA1474|Juigné|Montreuil-Juigné
+471|CTA2102|Mastelle|Montreuil-Juigné
+472|CTA1506|Montreuil|Montreuil-Juigné
+473|CTA1568|Piscine de Juigné|Montreuil-Juigné
+474|CTA1573|Plateau Fleuri|Montreuil-Juigné
+475|CTA1541|République Montreuil|Montreuil-Juigné
+476|CTA174|V Hugo Montreuil|Montreuil-Juigné
