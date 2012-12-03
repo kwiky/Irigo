@@ -1,0 +1,13 @@
+== Liste des lignes ==
+URL : http://angers.prod.navitia.com/Navitia/HP_2_Line.asp
+Parametres GET :
+NetworkList=1|CTA18|IRIGO
+
+== Liste des arrets ==
+URL : http://angers.prod.navitia.com/Navitia/HP_3_StopAreaSensDate.asp
+Parametres GET :
+Network:1|CTA18|IRIGO
+Line:1|CTA73|01|Belle-Beille <> Monplaisir|Monplaisir|Belle Beille|5|Bus
+NetworkList:1|CTA18|IRIGO
+DateFinBases:2013|06|30
+DateMajBases:2012|12|03
