@@ -1,0 +1,11 @@
+10|CTA1243|Anne Frank|Angers
+75|CTA2205|Cormiers|Angers
+87|CTA2267|Desmazières|Angers
+124|CTA1428|Géricault|Angers
+164|CTA41|Lorraine|Angers
+190|CTA1531|Mongazon|Angers
+216|CTA1575|Place du Lycée|Angers
+253|CTA1349|St Joseph|Angers
+254|CTA1226|St Laurent|Angers
+255|CTA1630|St Léonard|Angers
+745|CTA2206|Village Santé|Trélazé

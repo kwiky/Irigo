@@ -1,0 +1,28 @@
+3|CTA2324|Accueil Clinique|Angers
+9|CTA1374|Angers Roseraie|Angers
+11|CTA1247|Appentis|Angers
+13|CTA1248|Arboretum|Angers
+40|CTA1274|Bédier|Angers
+79|CTA1407|Cévert|Angers
+61|CTA1396|Clinique de l'Anjou|Angers
+132|CTA1458|Intrépide|Angers
+160|CTA1311|Linné|Angers
+163|CTA1503|Lorette|Angers
+182|CTA1411|Meilland|Angers
+198|CTA1543|Morellerie|Angers
+204|CTA1549|Orgemont|Angers
+228|CTA2320|Pôle Tassigny|Angers
+602|CTA1314|Aubry|Sainte-Gemmes-sur-Loire
+603|CTA1278|Bel Oeil|Sainte-Gemmes-sur-Loire
+604|CTA1627|Clos Neuf|Sainte-Gemmes-sur-Loire
+605|CTA1356|Cossé|Sainte-Gemmes-sur-Loire
+608|CTA1448|Hôpital de Ste Gemmes|Sainte-Gemmes-sur-Loire
+607|CTA1453|Hutreau|Sainte-Gemmes-sur-Loire
+609|CTA2238|La Venrie|Sainte-Gemmes-sur-Loire
+610|CTA2288|Le Chêne|Sainte-Gemmes-sur-Loire
+612|CTA2314|Le Port|Sainte-Gemmes-sur-Loire
+613|CTA1494|Les Roses|Sainte-Gemmes-sur-Loire
+614|CTA1657|Loupinot|Sainte-Gemmes-sur-Loire
+615|CTA1521|Mairie de Ste Gemmes|Sainte-Gemmes-sur-Loire
+616|CTA1599|Roche Morna|Sainte-Gemmes-sur-Loire
+617|CTA1605|Route d'Angers|Sainte-Gemmes-sur-Loire
