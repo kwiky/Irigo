@@ -1,0 +1,90 @@
+12|CTA2456|Aragon|Angers
+18|CTA1258|Auvergne|Angers
+21|CTA1631|Banchais|Angers
+23|CTA1272|Beaurepaire|Angers
+32|CTA1287|Bois l'Abbé|Angers
+33|CTA93|Boisramé|Angers
+34|CTA2351|Bon Pasteur|Angers
+39|CTA1706|Brisepotière|Angers
+50|CTA92|Chapelle Belle Beille|Angers
+57|CTA1340|Cimetière de l'Est|Angers
+59|CTA96|Cité Universitaire|Angers
+63|CTA1392|CNFPT|Angers
+80|CTA2298|De Farcy|Angers
+82|CTA171|Debussy|Angers
+88|CTA1365|Deux Croix|Angers
+95|CTA91|Elysée|Angers
+98|CTA1268|ESSCA|Angers
+102|CTA82|Foch - Haras|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+104|CTA83|Foch - St Aubin|Angers
+106|CTA1670|Front De Maine|Angers
+110|CTA1416|Gardot|Angers
+113|CTA1297|Gares Brémont|Angers
+114|CTA114|Gares Papin|Angers
+117|CTA1421|Gaubert|Angers
+129|CTA1449|Hôtellerie|Angers
+130|CTA1454|Industrie|Angers
+143|CTA1470|Jérusalem|Angers
+140|CTA1471|Joffre|Angers
+147|CTA1479|Lac de Maine Accueil|Angers
+148|CTA1481|Lac de Maine Nautique|Angers
+150|CTA100|Lakanal|Angers
+152|CTA2370|Le Nôtre|Angers
+155|CTA1491|Les Deniers|Angers
+156|CTA2442|Les Gares|Angers
+164|CTA41|Lorraine|Angers
+176|CTA1512|Mail|Angers
+177|CTA99|Maison de Technopole|Angers
+178|CTA95|Maison des Etudiants|Angers
+191|CTA1463|Monnet|Angers
+192|CTA1533|Monplaisir|Angers
+193|CTA1534|Monprofit|Angers
+195|CTA1536|Montaigne|Angers
+196|CTA90|Montesquieu|Angers
+201|CTA94|Notre Dame du Lac|Angers
+202|CTA165|Nozay|Angers
+203|CTA1475|Office de Tourisme|Angers
+211|CTA1561|Perussaie|Angers
+223|CTA2125|Poissonnerie|Angers
+242|CTA102|République|Angers
+240|CTA1591|Route de Briollay|Angers
+262|CTA1619|Sécurité Sociale|Angers
+250|CTA1628|St Exupéry|Angers
+258|CTA1608|Ste Croix|Angers
+265|CTA2452|Thuleau|Angers
+266|CTA87|Trinité|Angers
+273|CTA1650|Vaugareau|Angers
+280|CTA2469|Voltaire|Angers
+323|CTA1270|Beaucouzé - Haute Roche|Beaucouzé
+325|CTA1298|Bourg de Paille|Beaucouzé
+326|CTA1324|Chanterie|Beaucouzé
+334|CTA1438|Grand Périgné|Beaucouzé
+333|CTA1431|Grand Pin|Beaucouzé
+335|CTA1385|Grange Aux Belles|Beaucouzé
+338|CTA1701|Hermitage|Beaucouzé
+339|CTA1455|INRA|Beaucouzé
+344|CTA1393|Le Landreau|Beaucouzé
+347|CTA2122|Morel|Beaucouzé
+349|CTA1567|Pinsons|Beaucouzé
+350|CTA1582|Prieuré|Beaucouzé
+351|CTA1433|Promeniers|Beaucouzé
+352|CTA1597|Rodin|Beaucouzé
+353|CTA1602|Rouairie|Beaucouzé
+354|CTA1606|Route de La Meignanne|Beaucouzé
+356|CTA1652|Vauragère|Beaucouzé
+363|CTA1230|Chataigneraie|Bouchemaine
+365|CTA1350|Clos de la Vigne|Bouchemaine
+366|CTA1363|Croisette|Bouchemaine
+368|CTA1434|Groupe commercial|Bouchemaine
+372|CTA1305|Lac de Maine Camping|Bouchemaine
+379|CTA1584|Pruniers|Bouchemaine
+381|CTA1643|Val de Maine|Bouchemaine
+407|CTA1359|Cottage|Ecouflant
+408|CTA1377|Du Bellay|Ecouflant
+409|CTA1401|Eventard|Ecouflant
+570|CTA1347|Claverie|Saint-Barthélemy-d'Anjou
+587|CTA1565|Pignonnière|Saint-Barthélemy-d'Anjou
+588|CTA1598|Romanerie|Saint-Barthélemy-d'Anjou
+589|CTA1609|Saillerie|Saint-Barthélemy-d'Anjou
+648|CTA135|Baronnerie|Saint-Sylvain-d'Anjou
