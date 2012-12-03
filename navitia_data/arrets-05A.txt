@@ -1,0 +1,70 @@
+7|CTA1241|Allonneau|Angers
+9|CTA1374|Angers Roseraie|Angers
+11|CTA1247|Appentis|Angers
+13|CTA1248|Arboretum|Angers
+16|CTA1252|Arts et Métiers|Angers
+17|CTA1655|Auriol|Angers
+23|CTA1272|Beaurepaire|Angers
+27|CTA1283|Bichon|Angers
+36|CTA1296|Bouché Thomas|Angers
+39|CTA1706|Brisepotière|Angers
+42|CTA1304|Camélia|Angers
+41|CTA1308|Camus|Angers
+45|CTA2079|Carrefour St Serge|Angers
+47|CTA2487|Centre De Tri|Angers
+79|CTA1407|Cévert|Angers
+51|CTA1326|Charnasserie|Angers
+60|CTA73|Claudel|Angers
+81|CTA1368|De Lattre|Angers
+83|CTA1367|Delacroix|Angers
+85|CTA1370|Descazeaux|Angers
+88|CTA1365|Deux Croix|Angers
+90|CTA1381|Dumont d'Urville|Angers
+92|CTA1382|Eblé|Angers
+97|CTA2123|Espace Anjou|Angers
+112|CTA1554|Garenne|Angers
+113|CTA1297|Gares Brémont|Angers
+115|CTA2322|Gares Semard|Angers
+123|CTA1425|Génie|Angers
+118|CTA1429|Gillier|Angers
+125|CTA1444|Haut Pressoir|Angers
+128|CTA178|Hôtel Dieu|Angers
+131|CTA1457|Intermarché Millot|Angers
+133|CTA2466|Isoret|Angers
+136|CTA1467|Jean Jaurès|Angers
+137|CTA1192|Jean Moulin|Angers
+139|CTA74|Jean XXIII|Angers
+141|CTA75|Jules Verne|Angers
+142|CTA55|Justices|Angers
+145|CTA1477|La Bruyère|Angers
+146|CTA1596|La Rochefoucauld|Angers
+153|CTA1487|Leclerc|Angers
+162|CTA1501|Lizé|Angers
+180|CTA2444|Maréchal Juin|Angers
+185|CTA1528|Millot|Angers
+193|CTA1534|Monprofit|Angers
+194|CTA72|Mont Cassin|Angers
+198|CTA1543|Morellerie|Angers
+203|CTA1475|Office de Tourisme|Angers
+206|CTA1551|Pallach|Angers
+210|CTA1559|Peluau|Angers
+212|CTA1562|Petites Pannes|Angers
+215|CTA1678|Place de l'Europe|Angers
+222|CTA1577|Poirel|Angers
+223|CTA2125|Poissonnerie|Angers
+225|CTA1580|Pont Noir|Angers
+231|CTA1588|Ramon|Angers
+232|CTA1590|Raspail|Angers
+242|CTA102|République|Angers
+236|CTA1595|Roc Epine|Angers
+238|CTA1681|Roseraie Gaubourgs|Angers
+240|CTA1591|Route de Briollay|Angers
+252|CTA1629|St Jean|Angers
+255|CTA1630|St Léonard|Angers
+258|CTA1608|Ste Croix|Angers
+265|CTA2452|Thuleau|Angers
+272|CTA1649|Vauban|Angers
+273|CTA1650|Vaugareau|Angers
+276|CTA1659|Villechien|Angers
+611|CTA2195|Le Fresne|Sainte-Gemmes-sur-Loire
+618|CTA2481|Route De Bouchemaine|Sainte-Gemmes-sur-Loire
