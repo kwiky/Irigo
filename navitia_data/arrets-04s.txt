@@ -1,0 +1,22 @@
+4|CTA1321|AFPA|Angers
+14|CTA1249|Arceau|Angers
+25|CTA1276|Bellefontaine|Angers
+57|CTA1340|Cimetière de l'Est|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+151|CTA1483|Lamartine|Angers
+164|CTA41|Lorraine|Angers
+183|CTA140|Mendès France|Angers
+214|CTA1566|Pierre Lise|Angers
+227|CTA1585|Puy Garnier|Angers
+564|CTA1255|Aubépine|Saint-Barthélemy-d'Anjou
+575|CTA1361|Cézanne|Saint-Barthélemy-d'Anjou
+569|CTA1338|Chêne vert|Saint-Barthélemy-d'Anjou
+574|CTA1316|Croix de cheminée|Saint-Barthélemy-d'Anjou
+576|CTA1452|Gemmetrie|Saint-Barthélemy-d'Anjou
+578|CTA1462|Jaudette|Saint-Barthélemy-d'Anjou
+579|CTA1473|Jules Ferry|Saint-Barthélemy-d'Anjou
+580|CTA2440|La Reux|Saint-Barthélemy-d'Anjou
+584|CTA1552|Paperie|Saint-Barthélemy-d'Anjou
+585|CTA1557|Pasteur|Saint-Barthélemy-d'Anjou
+592|CTA1625|Stade de St Barthélemy|Saint-Barthélemy-d'Anjou
+594|CTA1654|Verdun|Saint-Barthélemy-d'Anjou

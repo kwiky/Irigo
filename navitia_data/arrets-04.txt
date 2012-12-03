@@ -1,0 +1,70 @@
+4|CTA1321|AFPA|Angers
+12|CTA2456|Aragon|Angers
+14|CTA1249|Arceau|Angers
+25|CTA1276|Bellefontaine|Angers
+34|CTA2351|Bon Pasteur|Angers
+55|CTA1330|Château|Angers
+57|CTA1340|Cimetière de l'Est|Angers
+80|CTA2298|De Farcy|Angers
+95|CTA91|Elysée|Angers
+98|CTA1268|ESSCA|Angers
+102|CTA82|Foch - Haras|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+104|CTA83|Foch - St Aubin|Angers
+113|CTA1297|Gares Brémont|Angers
+114|CTA114|Gares Papin|Angers
+117|CTA1421|Gaubert|Angers
+144|CTA1162|La Barre|Angers
+150|CTA100|Lakanal|Angers
+151|CTA1483|Lamartine|Angers
+152|CTA2370|Le Nôtre|Angers
+156|CTA2442|Les Gares|Angers
+159|CTA2494|Licorne|Angers
+164|CTA41|Lorraine|Angers
+177|CTA99|Maison de Technopole|Angers
+183|CTA140|Mendès France|Angers
+196|CTA90|Montesquieu|Angers
+209|CTA1202|Patton|Angers
+214|CTA1566|Pierre Lise|Angers
+227|CTA1585|Puy Garnier|Angers
+323|CTA1270|Beaucouzé - Haute Roche|Beaucouzé
+324|CTA2495|Boulle|Beaucouzé
+325|CTA1298|Bourg de Paille|Beaucouzé
+326|CTA1324|Chanterie|Beaucouzé
+328|CTA2496|Citronnelle|Beaucouzé
+332|CTA2497|Echats|Beaucouzé
+334|CTA1438|Grand Périgné|Beaucouzé
+333|CTA1431|Grand Pin|Beaucouzé
+335|CTA1385|Grange Aux Belles|Beaucouzé
+338|CTA1701|Hermitage|Beaucouzé
+339|CTA1455|INRA|Beaucouzé
+341|CTA2480|L'Atoll - Beaucouzé|Beaucouzé
+343|CTA2498|Le Corbusier|Beaucouzé
+344|CTA1393|Le Landreau|Beaucouzé
+346|CTA2499|Monod|Beaucouzé
+347|CTA2122|Morel|Beaucouzé
+349|CTA1567|Pinsons|Beaucouzé
+350|CTA1582|Prieuré|Beaucouzé
+351|CTA1433|Promeniers|Beaucouzé
+352|CTA1597|Rodin|Beaucouzé
+353|CTA1602|Rouairie|Beaucouzé
+354|CTA1606|Route de La Meignanne|Beaucouzé
+356|CTA1652|Vauragère|Beaucouzé
+564|CTA1255|Aubépine|Saint-Barthélemy-d'Anjou
+568|CTA1318|Centre Equestre|Saint-Barthélemy-d'Anjou
+575|CTA1361|Cézanne|Saint-Barthélemy-d'Anjou
+569|CTA1338|Chêne vert|Saint-Barthélemy-d'Anjou
+574|CTA1316|Croix de cheminée|Saint-Barthélemy-d'Anjou
+576|CTA1452|Gemmetrie|Saint-Barthélemy-d'Anjou
+578|CTA1462|Jaudette|Saint-Barthélemy-d'Anjou
+579|CTA1473|Jules Ferry|Saint-Barthélemy-d'Anjou
+580|CTA2440|La Reux|Saint-Barthélemy-d'Anjou
+583|CTA1544|Morlière|Saint-Barthélemy-d'Anjou
+584|CTA1552|Paperie|Saint-Barthélemy-d'Anjou
+585|CTA1557|Pasteur|Saint-Barthélemy-d'Anjou
+586|CTA2417|Pellerinière|Saint-Barthélemy-d'Anjou
+591|CTA1613|St Barthélemy|Saint-Barthélemy-d'Anjou
+592|CTA1625|Stade de St Barthélemy|Saint-Barthélemy-d'Anjou
+593|CTA1653|Venaiserie|Saint-Barthélemy-d'Anjou
+594|CTA1654|Verdun|Saint-Barthélemy-d'Anjou
+595|CTA1662|Walcourt|Saint-Barthélemy-d'Anjou
