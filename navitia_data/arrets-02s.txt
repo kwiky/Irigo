@@ -1,0 +1,25 @@
+8|CTA1246|André Leroy|Angers
+38|CTA1294|Bourgonnier|Angers
+83|CTA1367|Delacroix|Angers
+94|CTA1383|Eclateries|Angers
+102|CTA82|Foch - Haras|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+104|CTA83|Foch - St Aubin|Angers
+142|CTA55|Justices|Angers
+164|CTA41|Lorraine|Angers
+175|CTA1511|Madeleine|Angers
+184|CTA1527|Michelet|Angers
+185|CTA1528|Millot|Angers
+208|CTA1558|Patinoire|Angers
+268|CTA56|Val de Loire|Angers
+279|CTA1325|Volney|Angers
+717|CTA2290|Bellevue|Trélazé
+719|CTA2075|Buisson|Trélazé
+720|CTA1337|Chouteau|Trélazé
+725|CTA1410|Fresnaies|Trélazé
+732|CTA2199|Lefèvre|Trélazé
+734|CTA1493|Léo Lagrange|Trélazé
+736|CTA2074|Malaquais|Trélazé
+738|CTA1526|Ménard|Trélazé
+739|CTA1679|Pyramide|Trélazé
+742|CTA1564|République Trélazé|Trélazé

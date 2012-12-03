@@ -1,0 +1,59 @@
+2|CTA136|7 Sonnettes|Angers
+8|CTA1246|André Leroy|Angers
+21|CTA1631|Banchais|Angers
+38|CTA1294|Bourgonnier|Angers
+39|CTA1706|Brisepotière|Angers
+52|CTA47|Chatenay|Angers
+83|CTA1367|Delacroix|Angers
+86|CTA2431|Desjardins|Angers
+94|CTA1383|Eclateries|Angers
+102|CTA82|Foch - Haras|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+104|CTA83|Foch - St Aubin|Angers
+142|CTA55|Justices|Angers
+165|CTA1508|Lutin|Angers
+174|CTA1509|Macé|Angers
+175|CTA1511|Madeleine|Angers
+183|CTA140|Mendès France|Angers
+184|CTA1527|Michelet|Angers
+185|CTA1528|Millot|Angers
+187|CTA2491|Mirbeau|Angers
+199|CTA1547|Musset|Angers
+208|CTA1558|Patinoire|Angers
+241|CTA137|Route de Paris|Angers
+244|CTA1612|Savary|Angers
+247|CTA1616|Schweitzer|Angers
+249|CTA1623|Soleil Levant|Angers
+268|CTA56|Val de Loire|Angers
+279|CTA1325|Volney|Angers
+649|CTA1265|Bas Mortier|Saint-Sylvain-d'Anjou
+652|CTA2428|Carreaux|Saint-Sylvain-d'Anjou
+653|CTA1322|Champs Blancs|Saint-Sylvain-d'Anjou
+656|CTA1167|Fousseaux|Saint-Sylvain-d'Anjou
+657|CTA1405|Françaiserie|Saint-Sylvain-d'Anjou
+658|CTA1556|Gardonne|Saint-Sylvain-d'Anjou
+666|CTA1166|Maréchal Leclerc|Saint-Sylvain-d'Anjou
+668|CTA2445|Millardière|Saint-Sylvain-d'Anjou
+670|CTA1169|Parc des Expositions|Saint-Sylvain-d'Anjou
+672|CTA1173|Singerie|Saint-Sylvain-d'Anjou
+673|CTA1168|St Sylvain|Saint-Sylvain-d'Anjou
+674|CTA2313|Union|Saint-Sylvain-d'Anjou
+675|CTA1668|Victor Hugo|Saint-Sylvain-d'Anjou
+715|CTA2379|Bahonneau|Trélazé
+717|CTA2290|Bellevue|Trélazé
+719|CTA2075|Buisson|Trélazé
+720|CTA1337|Chouteau|Trélazé
+721|CTA1758|Clarté|Trélazé
+722|CTA2291|Dautel|Trélazé
+723|CTA2228|De Gaulle|Trélazé
+725|CTA1410|Fresnaies|Trélazé
+727|CTA2271|Gentric|Trélazé
+728|CTA2490|Huit Mai Trélazé|Trélazé
+732|CTA2199|Lefèvre|Trélazé
+734|CTA1493|Léo Lagrange|Trélazé
+736|CTA2074|Malaquais|Trélazé
+737|CTA1761|Malembardières ZI Trélazé|Trélazé
+738|CTA1526|Ménard|Trélazé
+739|CTA1679|Pyramide|Trélazé
+742|CTA1564|République Trélazé|Trélazé
+744|CTA53|Trélazé|Trélazé

@@ -1,0 +1,68 @@
+6|CTA2400|Allard|Angers
+8|CTA1246|André Leroy|Angers
+17|CTA1655|Auriol|Angers
+18|CTA1258|Auvergne|Angers
+27|CTA1283|Bichon|Angers
+44|CTA1312|Carnot|Angers
+45|CTA2079|Carrefour St Serge|Angers
+51|CTA1326|Charnasserie|Angers
+58|CTA1345|Cimetière de l'Ouest|Angers
+81|CTA1368|De Lattre|Angers
+85|CTA1370|Descazeaux|Angers
+93|CTA1390|Echman|Angers
+96|CTA2434|ESA|Angers
+102|CTA82|Foch - Haras|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+104|CTA83|Foch - St Aubin|Angers
+128|CTA178|Hôtel Dieu|Angers
+137|CTA1192|Jean Moulin|Angers
+146|CTA1596|La Rochefoucauld|Angers
+162|CTA1501|Lizé|Angers
+164|CTA41|Lorraine|Angers
+181|CTA1525|Meignanne|Angers
+183|CTA140|Mendès France|Angers
+188|CTA1404|Mitterrand|Angers
+192|CTA1533|Monplaisir|Angers
+202|CTA165|Nozay|Angers
+208|CTA1558|Patinoire|Angers
+210|CTA1559|Peluau|Angers
+212|CTA1562|Petites Pannes|Angers
+228|CTA2320|Pôle Tassigny|Angers
+224|CTA187|Pomone|Angers
+229|CTA2450|Rabelais|Angers
+231|CTA1588|Ramon|Angers
+243|CTA1593|Rêveries|Angers
+240|CTA1591|Route de Briollay|Angers
+291|CTA1253|Champ Des Martyrs|Avrillé
+294|CTA1348|Clinique Saint Didier|Avrillé
+297|CTA1560|Espace Jeunesse|Avrillé
+298|CTA1327|Grandmont|Avrillé
+300|CTA1476|Kennedy|Avrillé
+321|CTA1648|Val d'or|Avrillé
+527|CTA1257|Authion|Les Ponts-de-Cé
+529|CTA1279|Belle Poule|Les Ponts-de-Cé
+530|CTA1292|Bosquet|Les Ponts-de-Cé
+531|CTA1317|Centre commercial|Les Ponts-de-Cé
+536|CTA1376|Dube|Les Ponts-de-Cé
+539|CTA1415|Gallieni|Les Ponts-de-Cé
+542|CTA1451|Huit Mai|Les Ponts-de-Cé
+544|CTA69|La Chesnaie|Les Ponts-de-Cé
+545|CTA1502|Loire|Les Ponts-de-Cé
+546|CTA1507|Louet|Les Ponts-de-Cé
+548|CTA1581|Mairie des Ponts de Ce|Les Ponts-de-Cé
+552|CTA1709|Patureaux|Les Ponts-de-Cé
+559|CTA67|Ruelles|Les Ponts-de-Cé
+560|CTA1607|Sablons|Les Ponts-de-Cé
+562|CTA1641|Trois Paroisses|Les Ponts-de-Cé
+477|CTA1262|Barbotterie|Mûrs-Erigné
+479|CTA1323|Château Erigné|Mûrs-Erigné
+481|CTA1394|Erigné|Mûrs-Erigné
+483|CTA1423|Grand Pressoir|Mûrs-Erigné
+484|CTA2297|Hôtel de Ville|Mûrs-Erigné
+485|CTA1277|Jean Carmet|Mûrs-Erigné
+486|CTA1478|La Buissaie|Mûrs-Erigné
+487|CTA1490|Le Coteau|Mûrs-Erigné
+488|CTA1496|Levesque|Mûrs-Erigné
+489|CTA1532|Monnier|Mûrs-Erigné
+490|CTA1546|Mûrs Erigné|Mûrs-Erigné
+495|CTA1622|Soland|Mûrs-Erigné

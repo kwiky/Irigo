@@ -1,0 +1,32 @@
+6|CTA2400|Allard|Angers
+8|CTA1246|André Leroy|Angers
+27|CTA1283|Bichon|Angers
+44|CTA1312|Carnot|Angers
+58|CTA1345|Cimetière de l'Ouest|Angers
+81|CTA1368|De Lattre|Angers
+85|CTA1370|Descazeaux|Angers
+96|CTA2434|ESA|Angers
+102|CTA82|Foch - Haras|Angers
+103|CTA2437|Foch - Maison Bleue|Angers
+104|CTA83|Foch - St Aubin|Angers
+128|CTA178|Hôtel Dieu|Angers
+146|CTA1596|La Rochefoucauld|Angers
+164|CTA41|Lorraine|Angers
+181|CTA1525|Meignanne|Angers
+183|CTA140|Mendès France|Angers
+188|CTA1404|Mitterrand|Angers
+208|CTA1558|Patinoire|Angers
+228|CTA2320|Pôle Tassigny|Angers
+224|CTA187|Pomone|Angers
+229|CTA2450|Rabelais|Angers
+243|CTA1593|Rêveries|Angers
+294|CTA1348|Clinique Saint Didier|Avrillé
+298|CTA1327|Grandmont|Avrillé
+321|CTA1648|Val d'or|Avrillé
+527|CTA1257|Authion|Les Ponts-de-Cé
+529|CTA1279|Belle Poule|Les Ponts-de-Cé
+532|CTA1342|Cimetière des Ponts de Cé|Les Ponts-de-Cé
+548|CTA1581|Mairie des Ponts de Ce|Les Ponts-de-Cé
+559|CTA67|Ruelles|Les Ponts-de-Cé
+560|CTA1607|Sablons|Les Ponts-de-Cé
+562|CTA1641|Trois Paroisses|Les Ponts-de-Cé
