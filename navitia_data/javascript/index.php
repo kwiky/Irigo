@@ -57,10 +57,10 @@ var on_receive_lines = function(network, dataLines) {
 		}
 	});
 	//console.log(lines);
-	print_lines(lines);
-	for (i=0; i < lines.length; i++) {
-		call_stops(network, lines[i]);
-	}
+	//print_lines(lines);
+	//for (i=0; i < lines.length; i++) {
+		call_stops(network, lines[3]);
+	//}
 };
 
 // Recupere la liste des arrets
@@ -83,8 +83,6 @@ var call_stops = function(network, dataLine) {
 		crossDomain: true,
 		success: function(dataStops) {
 			on_receive_stops(network, dataLine, dataStops);	
-			co++;
-			if (co == lines.length) print_stops_indexed();
 		}
 	});
 };
@@ -107,10 +105,12 @@ var on_receive_stops = function(network, dataLine, dataStops) {
 			stops_indexed[stop.id] = stop;
 		}	
 	});
+	//co++;
+	//if (co == lines.length) print_stops_indexed();
 	
-	/*for (i=0; i < stops.length; i++) {
-		call_hours(network, dataLine, stops[i]);
-	}*/
+	//for (i=0; i < stops.length; i++) {
+		call_hours(network, dataLine, stops[0]);
+	//}
 };
 
 // Recupere la liste des horaires
@@ -139,10 +139,18 @@ var call_hours = function (network, dataLine, dataStop){
 		crossDomain: true,
 		success: function(dataHours) {
 			on_receive_hours(network, dataLine, dataStop, dataHours);
-		},
-		error: function(jqXHR, textStatus, errorThrown) {
-			debug(jqXHR);debug(textStatus);debug(errorThrown);
-		},
+		}
+	});
+	parameters.Direction = '-1';
+	$.ajax({
+		url: url,
+		data: parameters,
+		type: 'GET',
+		dataType: 'html',
+		crossDomain: true,
+		success: function(dataHours) {
+			on_receive_hours(network, dataLine, dataStop, dataHours);
+		}
 	});
 };
 
@@ -153,6 +161,26 @@ var on_receive_hours = function(network, dataLine, dataStop, dataHours) {
 	var minutes = new Array();
 	var horaires = new Array();
 	var r = dataHours.responseText;
+	var main_terminus = {'ref' : 0, 'name' : null, times : new Array()};
+	var sec_terminus = new Array();
+	$(r).find('.hp_dest_principale_description').each(function() {
+		main_terminus.name = $(this).text().replace(/^[\s]+/g, '').replace(/[\s]+$/g, '');
+		//console.info(main_terminus);
+	});
+	$(r).find('.hp_dest_secondaire_td').each(function() {
+		var sec_term = {'ref' : null, 'name' : null, times : new Array()};
+		$(this).find('.hp_dest_secondaire_renvoi').each(function() {
+			sec_term.ref = $(this).text().replace(/^[\s]+/g, '').replace(/[\s]+$/g, '').substring(1, 2);
+			//console.info('['+sec_term.ref+']');
+		});
+		$(this).parent().find('.hp_dest_secondaire_description').each(function() {
+			sec_term.name = $(this).text().replace(/^[\s]+/g, '').replace(/[\s]+$/g, '').replace(/Terminus\s/i, '');
+			//console.info('['+sec_term.name+']');
+		});
+		sec_term.times = new Array();
+		sec_terminus[sec_terminus.length] = sec_term;
+	});
+	//console.info(sec_terminus);
 	// heures
 	$(r).find('.heure_paire p, .heure_impaire p').each(function() {
 		horaires[heures.length] = new Array();
@@ -165,6 +193,7 @@ var on_receive_hours = function(network, dataLine, dataStop, dataHours) {
 		var m = $.trim($(this).text()).replace(/[\r\n\s\)]+/g, '').replace(/[\(]+(?=[^\(])/g, '-');
 		minutes[minutes.length] = m;
 		if (m != '') {
+			//console.info(m);
 			horaires[i][horaires[i].length] = heures[i] + ':' + m;
 		}
 		i++;
@@ -177,8 +206,21 @@ var on_receive_hours = function(network, dataLine, dataStop, dataHours) {
 			horairesTriees[horairesTriees.length] = horaires[i][j];
 		}
 	}
-	dataStop.stops = horairesTriees;
-	console.info(dataStop);
+	// classement
+	for (i=0; i < horairesTriees.length; i++) {
+		if (horairesTriees[i].length > 5) {
+			var h = horairesTriees[i].split('-');
+			for (j=0; j < sec_terminus.length; j++) {
+				if (sec_terminus[j].ref == h[1]) {
+					sec_terminus[j].times[sec_terminus[j].times.length] = h[0];
+				}
+			}
+		} else {
+			main_terminus.times[main_terminus.times.length] = horairesTriees[i];
+		}
+	}
+	console.info(main_terminus);
+	console.info(sec_terminus);
 };
 
 var print_lines = function(lines) {
@@ -228,7 +270,7 @@ var print_stops_indexed = function() {
 </script>
 </head>
 <body>
-<!--div id="lines"></div-->
+<div id="lines"></div>
 <div id="stops"></div>
 </body>
 </html>
