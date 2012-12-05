@@ -5,6 +5,8 @@
 <script>
 var NETWORK = '1|CTA18|IRIGO';
 var lines = null;
+var stops_indexed = new Array();
+var co = 0;
 
 $(function() {
     call_lines(NETWORK);
@@ -55,8 +57,10 @@ var on_receive_lines = function(network, dataLines) {
 		}
 	});
 	//console.log(lines);
-	print_line(lines);
-	//call_stops(network, lines[0]);
+	print_lines(lines);
+	for (i=0; i < lines.length; i++) {
+		call_stops(network, lines[i]);
+	}
 };
 
 // Recupere la liste des arrets
@@ -70,6 +74,7 @@ var call_stops = function(network, dataLine) {
 		'DateFinBases' : '2013|06|30',
 		'DateMajBases' : '2012|12|03',
 	};
+	
 	$.ajax({
 		url: url,
 		data: parameters,
@@ -77,7 +82,9 @@ var call_stops = function(network, dataLine) {
 		dataType: 'html',
 		crossDomain: true,
 		success: function(dataStops) {
-			on_receive_stops(network, dataLine, dataStops);
+			on_receive_stops(network, dataLine, dataStops);	
+			co++;
+			if (co == lines.length) print_stops_indexed();
 		}
 	});
 };
@@ -97,12 +104,13 @@ var on_receive_stops = function(network, dataLine, dataStops) {
 				'city' : va[3],
 			}
 			stops[stops.length] = stop;
+			stops_indexed[stop.id] = stop;
 		}	
 	});
 	
-	for (i=0; i < stops.length; i++) {
+	/*for (i=0; i < stops.length; i++) {
 		call_hours(network, dataLine, stops[i]);
-	}
+	}*/
 };
 
 // Recupere la liste des horaires
@@ -173,7 +181,7 @@ var on_receive_hours = function(network, dataLine, dataStop, dataHours) {
 	console.info(dataStop);
 };
 
-var print_line = function(lines) {
+var print_lines = function(lines) {
 	$('#lines').append('<div>');
 	$('#lines').append('route_id,agency_id,route_short_name,route_long_name,route_type');//,route_color');
 	$('#lines').append('</div>');
@@ -191,9 +199,36 @@ var print_line = function(lines) {
 		$('#lines').append('</div>');
 	}
 };
+
+var print_stops = function(stops) {
+	$('#stops').append('<div>');
+	$('#stops').append('stop_id,stop_code,stop_name,stop_lat,stop_long');
+	$('#stops').append('</div>');
+	for (i=0; i < stops.length; i++) {
+		$('#stops').append('<div class="stop" id="stop-'+i+'">');
+		$('#stops').append(stops[i].id + ',');
+		$('#stops').append(stops[i].code + ',');
+		$('#stops').append(stops[i].name + ',,');
+		$('#stops').append('</div>');
+	}
+};
+
+var print_stops_indexed = function() {
+	$('#stops').append('<div>');
+	$('#stops').append('stop_id,stop_code,stop_name,stop_lat,stop_long');
+	$('#stops').append('</div>');
+	for (var i in stops_indexed) {
+		$('#stops').append('<div class="stop" id="stop-'+i+'">');
+		$('#stops').append(stops_indexed[i].id + ',');
+		$('#stops').append(stops_indexed[i].code + ',');
+		$('#stops').append(stops_indexed[i].name + ',,');
+		$('#stops').append('</div>');
+	}
+};
 </script>
 </head>
 <body>
-<div id="lines"></div>
+<!--div id="lines"></div-->
+<div id="stops"></div>
 </body>
 </html>
