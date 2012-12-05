@@ -1,0 +1,45 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+1,1,01,Belle-Beille <> Monplaisir,3
+2,1,01d,Beaucouzé Hte R/ Val de Maine<>Eventard / Claverie,3
+3,1,01s,Lac De Maine <> Monplaisir,3
+4,1,02,Trélazé <> Banchais / St Sylvain,3
+5,1,02d,St Sylvain <> Trélazé,3
+6,1,02s,Trélazé Buisson <> Lorraine,3
+7,1,03,Avrillé Adézière / Salette <> Mûrs-Erigné,3
+8,1,03d,Verneau / Monplaisir <> Mûrs Erigné,3
+9,1,03s,Mairie Des Ponts De Cé <> Avrillé Val D'Or,3
+10,1,04,Beaucouzé - Haute Roche / L'Atoll <> St Barthélemy,3
+11,1,04d,Lorraine <> Saint Barthélemy D'Anjou,3
+12,1,04s,Saint Barthélemy <> Lorraine,3
+13,1,05A,Direction Gares Brémont,3
+14,1,05B,Direction Gares Brémont,3
+15,1,06,Chantourteau / Bouchemaine /Val De Maine <> ZI Est,3
+16,1,07,Lorraine <> Montreuil / Juigné / Feneu,3
+17,1,07d,Montreuil <> Avrillé-Ardenne,3
+18,1,08,Verneau/ CHU<>Mairie Ponts De Cé/ Moulin Marcille,3
+19,1,09,Eventard / ZI Ecouflant <> Espace Anjou,3
+20,1,10,Schweitzer <> St Lézin / ZI Trélazé / Sorges,3
+21,1,11,Lac De Maine/ZI Beauc.<>Clin.de L'Anjou/Ste Gemmes,3
+22,1,11d,Clinique De L'Anjou <> Ste Gemmes,3
+23,1,12,Claverie/ Baronnerie <> Moulin Marcille/ Vernusson,3
+24,1,12d,Village Santé <> Lorraine,3
+25,1,14,Les Gares <> Belle Beille,3
+26,1,30,Angers <> Plessis Gr <> Sarrigné,3
+27,1,31,Angers <> Briollay,3
+28,1,32,Angers <> Pellouailles <> Villevèque <> Soucelles,3
+29,1,33,Angers <> Cantenay Epinard <> Feneu,3
+30,1,34,Angers <> La Meignanne <> Le Plessis Macé,3
+31,1,35,Angers <> St Lambert La P. <> St Léger Des B.,3
+32,1,36,Angers <> St Jean De L. <> St Martin Du F.,3
+33,1,37,Angers <> Bouchemaine <> Savennières,3
+34,1,38,Angers <> St Lambert La P. <> St Clément De La P.,3
+35,1,39,Angers <> La Membrolle Sur Longuenée,3
+36,1,41,Angers <> Soulaines Sur Aubance,3
+37,1,42,Angers <> Ecouflant,3
+38,1,43,Angers <> Cantenay <> Soulaire et Bourg <> Ecuillé,3
+39,1,A,Angers - Roseraie <> Avrillé - Ardenne,1
+51,1,IrigoTaxi ,IrigoTaxi 1,5
+49,1,IrigoTaxi ,IrigoTaxi 2,5
+48,1,IrigoTaxi ,IrigoTaxi 3,5
+50,1,IrigoTaxi ,IrigoTaxi 4,5
+52,1,IrigoTaxi ,IrigoTaxi 5,5
