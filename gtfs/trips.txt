@@ -1,0 +1,118 @@
+route_id,trip_id,trip_headsign,service_id
+1,1n0,Angers - Monplaisir,lmmjv
+1,1i0,Angers - Maison de Technopole,lmmjv
+3,3n0,Angers - Monplaisir,s
+3,3ia,Angers - Cité Universitaire,s
+3,3i0,Beaucouzé - L'Hoirie,s
+4,4i0,Trélazé - Huit Mai Trélazé,lmmjv
+4,4n0,Saint-Sylvain-d'Anjou - St Sylvain,lmmjv
+4,4na,Saint-Sylvain-d'Anjou - Parc des Expositions,lmmjv
+4,4nb,Angers - Banchais,lmmjv
+6,6i0,Trélazé - Buisson,s
+6,6n0,Angers - Lorraine,s
+7,7i0,Mûrs-Erigné - Mûrs Erigné,lmmjv
+7,7n0,Avrillé - Avrillé Adezière,lmmjv
+7,7na,Avrillé - Avrillé Salette,lmmjv
+9,9n0,Avrillé - Val d'or,s
+9,9i0,Les Ponts-de-Cé - Mairie des Ponts de Ce,s
+10,10i0,Beaucouzé - Beaucouzé - Haute Roche,lmmjv
+10,10ia,Beaucouzé - L'Atoll - Beaucouzé,lmmjv
+10,10n0,Saint-Barthélemy-d'Anjou - St Barthélemy,lmmjv
+10,10na,Angers - Lorraine,lmmjv
+12,12i0,Angers - Lorraine,s
+12,12ia,Angers - Foch - Maison Bleue,s
+12,12n0,Saint-Barthélemy-d'Anjou - Verdun,s
+13,13n0,Angers - Gares Brémont,lmmjv
+13,13na,Angers - Gares Semard,lmmjv
+13,13nb,Sainte-Gemmes-sur-Loire - Le Fresne,lmmjv
+13,13nc,Angers - Roseraie Gaubourgs,lmmjv
+14,14n0,Angers - Gares Brémont,lmmjv
+14,14na,Angers - Place de l'Europe,lmmjv
+14,14nb,Angers - De Lattre,lmmjv
+15,15n0,Saint-Barthélemy-d'Anjou - ZI Est,lmmjv
+15,15i0,Bouchemaine - Chantourteau,lmmjv
+15,15ia,Bouchemaine - Val de Maine,lmmjv
+15,15ib,Bouchemaine - Harenchères,lmmjv
+15,15ic,Bouchemaine - Bouchemaine,lmmjv
+16,16n0,Montreuil-Juigné - Béné,lmmjv
+16,16na,Montreuil-Juigné - Montreuil,lmmjv
+16,16nb,Feneu - Eglise De Feneu,lmmjv
+16,16i0,Angers - Lorraine,lmmjv
+16,16ia,Avrillé - Avrillé - Ardenne,lmmjv
+18,18n0,Les Ponts-de-Cé - Mairie des Ponts de Ce,lmmjv
+18,18na,Angers - CHU - Hôpital,lmmjv
+18,18i0,Angers - Auriol,lmmjv
+18,18ia,Les Ponts-de-Cé - Moulin Marcille,lmmjv
+19,19n0,Ecouflant - Eventard,lmmjv
+19,19na,Angers - Patinoire,lmmjv
+19,19i0,Angers - Espace Anjou,lmmjv
+20,20n0,Angers - Schweitzer,lmmjv
+20,20i0,Trélazé - St Lézin,lmmjv
+20,20ia,Trélazé - Malembardières ZI Trélazé,lmmjv
+20,20ib,Les Ponts-de-Cé - Sorges,lmmjv
+20,20ic,Trélazé - Beaumanoir,lmmjv
+21,21n0,Beaucouzé - L'Hoirie,lmmjv
+21,21na,Beaucouzé - ZI Beaucouzé,lmmjv
+21,21nb,Angers - Gares Brémont,lmmjv
+21,21i0,Sainte-Gemmes-sur-Loire - Roche Morna,lmmjv
+21,21ia,Angers - Clinique de l'Anjou,lmmjv
+23,23n0,Saint-Barthélemy-d'Anjou - Claverie,lmmjv
+23,23na,Saint-Sylvain-d'Anjou - Baronnerie,lmmjv
+23,23i0,Les Ponts-de-Cé - Moulin Marcille,lmmjv
+23,23ia,Les Ponts-de-Cé - Floriloire Vernusson,lmmjv
+23,23ib,Trélazé - Village Santé,lmmjv
+25,25n0,Angers - Les Gares,lmmjv
+25,25i0,Angers - Maison de Technopole,lmmjv
+26,26n0,Sarrigné - Les Plantes,lmmjv
+26,26i0,Angers - Gare Routière,lmmjv
+27,27n0,Briollay - Verigné,lmmjv
+27,27na,Briollay - Varennes,lmmjv
+27,27i0,Angers - Gare Routière,lmmjv
+28,28n0,Soucelles - L'Hermitage,lmmjv
+28,28na,Soucelles - Mairie de Soucelles,lmmjv
+28,28nb,Pellouailles-les-Vignes - Stade de Pellouailles,lmmjv
+28,28i0,Angers - Gare Routière,lmmjv
+29,29n0,Feneu - Croix de Beauvais,lmmjv
+29,29na,Feneu - Eglise De Feneu,lmmjv
+29,29i0,Angers - Gare Routière,lmmjv
+30,30n0,Le Plessis-Macé - Route de St Clément,lmmjv
+30,30i0,Angers - Gare Routière,lmmjv
+30,30ia,Avrillé - Avrillé - Ardenne,lmmjv
+31,31n0,Saint-Léger-des-Bois - La Coudre,lmmjv
+31,31na,Saint-Léger-des-Bois - Les Essarts,lmmjv
+31,31i0,Angers - Gare Routière,lmmjv
+32,32n0,Saint-Martin-du-Fouilloux - Beau Soleil,lmmjv
+32,32na,Saint-Martin-du-Fouilloux - Point du Jour,lmmjv
+32,32i0,Angers - Gare Routière,lmmjv
+33,33n0,Savennières - Savennières,lmmjv
+33,33i0,Angers - Jean XXIII,lmmjv
+33,33ia,Bouchemaine - Chantourteau,lmmjv
+34,34n0,Saint-Clément-de-la-Place - La Rochette,lmmjv
+34,34i0,Angers - Gare Routière,lmmjv
+35,35n0,La Membrolle-sur-Longuenée - Bouvet,lmmjv
+35,35i0,Angers - Gare Routière,lmmjv
+36,36n0,Soulaines-sur-Aubance - Le Houx,lmmjv
+36,36na,Soulaines-sur-Aubance - Haute Marzelle,lmmjv
+36,36i0,Angers - Gare Routière,lmmjv
+37,37n0,Ecouflant - Grimorelle,lmmjv
+37,37i0,Angers - Gare Routière,lmmjv
+39,39n0,Avrillé - Avrillé - Ardenne,lmmjv
+39,39na,Angers - Verneau,lmmjv
+39,39i0,Angers - Angers Roseraie,lmmjv
+38,38n0,Ecuillé - Ecuillé,lmmjv
+38,38na,Soulaire-et-Bourg - Soulaire,lmmjv
+38,38i0,Angers - Gare Routière,lmmjv
+48,48n0,Briollay - Verigné,lmmjv
+48,48i0,Saint-Sylvain-d'Anjou - Millardière,lmmjv
+48,48na,Sarrigné - Mairie de Sarrigné,lmmjv
+48,48nb,Soucelles - La Bodinière,lmmjv
+49,49n0,Saint-Clément-de-la-Place - Eglise De St Clement,lmmjv
+49,49na,Saint-Léger-des-Bois - La Coudre,lmmjv
+49,49i0,Beaucouzé - Bourg de Paille,lmmjv
+50,50i0,Trélazé - Mairie de Trélazé,lmmjv
+50,50n0,Bouchemaine - Bouchemaine,lmmjv
+51,51i0,Feneu - Eglise De Feneu,lmmjv
+51,51ia,La Meignanne - Aubriais,lmmjv
+51,51n0,Avrillé - Intermarché Avrillé,lmmjv
+52,52n0,Mûrs-Erigné - Grand Pressoir,lmmjv
+52,52i0,Soulaines-sur-Aubance - Le Tertre Soulaines,lmmjv

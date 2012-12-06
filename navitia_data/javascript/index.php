@@ -6,7 +6,9 @@
 var NETWORK = '1|CTA18|IRIGO';
 var lines = null;
 var stops_indexed = new Array();
+var trips = new Array();
 var co = 0;
+var coa = 0;
 
 $(function() {
     call_lines(NETWORK);
@@ -57,10 +59,10 @@ var on_receive_lines = function(network, dataLines) {
 		}
 	});
 	//console.log(lines);
-	//print_lines(lines);
-	//for (i=0; i < lines.length; i++) {
-		call_stops(network, lines[3]);
-	//}
+	print_lines(lines);
+	for (i=0; i < lines.length; i++) {
+		call_stops(network, lines[i]);
+	}
 };
 
 // Recupere la liste des arrets
@@ -105,12 +107,12 @@ var on_receive_stops = function(network, dataLine, dataStops) {
 			stops_indexed[stop.id] = stop;
 		}	
 	});
-	//co++;
-	//if (co == lines.length) print_stops_indexed();
+	coa++;
+	if (coa == lines.length) print_stops_indexed();
 	
-	//for (i=0; i < stops.length; i++) {
-		call_hours(network, dataLine, stops[0]);
-	//}
+	for (i=0; i < stops.length; i++) {
+		call_hours(network, dataLine, stops[i]);
+	}
 };
 
 // Recupere la liste des horaires
@@ -131,6 +133,7 @@ var call_hours = function (network, dataLine, dataStop){
 		'DateFinBases' : '2013|06|30',
 		'DateMajBases' : '2012|12|03',
 	};
+	co++;
 	$.ajax({
 		url: url,
 		data: parameters,
@@ -138,10 +141,11 @@ var call_hours = function (network, dataLine, dataStop){
 		dataType: 'html',
 		crossDomain: true,
 		success: function(dataHours) {
-			on_receive_hours(network, dataLine, dataStop, dataHours);
+			on_receive_hours(network, dataLine, dataStop, dataHours, 'n');
 		}
 	});
 	parameters.Direction = '-1';
+	co++;
 	$.ajax({
 		url: url,
 		data: parameters,
@@ -149,51 +153,44 @@ var call_hours = function (network, dataLine, dataStop){
 		dataType: 'html',
 		crossDomain: true,
 		success: function(dataHours) {
-			on_receive_hours(network, dataLine, dataStop, dataHours);
+			on_receive_hours(network, dataLine, dataStop, dataHours, 'i');
 		}
 	});
 };
 
 // parse la liste des horaires
-var on_receive_hours = function(network, dataLine, dataStop, dataHours) {
+var on_receive_hours = function(network, dataLine, dataStop, dataHours, direction) {
 	//console.info(dataStop.name);
 	var heures = new Array();
 	var minutes = new Array();
 	var horaires = new Array();
 	var r = dataHours.responseText;
-	var main_terminus = {'ref' : 0, 'name' : null, times : new Array()};
-	var sec_terminus = new Array();
+	var main_terminus = {'ref' : 0, 'name' : null, 'route_id' : dataLine.id,  'route_ref' : dataLine.ref, 'direction' : direction, times : new Array()};
 	$(r).find('.hp_dest_principale_description').each(function() {
 		main_terminus.name = $(this).text().replace(/^[\s]+/g, '').replace(/[\s]+$/g, '');
-		//console.info(main_terminus);
+		add_trips(main_terminus);
 	});
 	$(r).find('.hp_dest_secondaire_td').each(function() {
-		var sec_term = {'ref' : null, 'name' : null, times : new Array()};
+		var sec_term = {'ref' : null, 'name' : null, 'route_id' : dataLine.id,  'route_ref' : dataLine.ref, 'direction' : direction, times : new Array()};
 		$(this).find('.hp_dest_secondaire_renvoi').each(function() {
 			sec_term.ref = $(this).text().replace(/^[\s]+/g, '').replace(/[\s]+$/g, '').substring(1, 2);
-			//console.info('['+sec_term.ref+']');
 		});
 		$(this).parent().find('.hp_dest_secondaire_description').each(function() {
 			sec_term.name = $(this).text().replace(/^[\s]+/g, '').replace(/[\s]+$/g, '').replace(/Terminus\s/i, '');
-			//console.info('['+sec_term.name+']');
 		});
-		sec_term.times = new Array();
-		sec_terminus[sec_terminus.length] = sec_term;
+		add_trips(sec_term);
 	});
-	//console.info(sec_terminus);
 	// heures
 	$(r).find('.heure_paire p, .heure_impaire p').each(function() {
 		horaires[heures.length] = new Array();
 		heures[heures.length] = $(this).text().substring(0, 2);
 	});
-	//console.info(heures);
 	var i = 0;
 	// minutes
 	$(r).find('.li_ci, .li_cp, .lp_ci, .lp_cp').each(function() {
 		var m = $.trim($(this).text()).replace(/[\r\n\s\)]+/g, '').replace(/[\(]+(?=[^\(])/g, '-');
 		minutes[minutes.length] = m;
 		if (m != '') {
-			//console.info(m);
 			horaires[i][horaires[i].length] = heures[i] + ':' + m;
 		}
 		i++;
@@ -206,22 +203,44 @@ var on_receive_hours = function(network, dataLine, dataStop, dataHours) {
 			horairesTriees[horairesTriees.length] = horaires[i][j];
 		}
 	}
+
+	add_hours_to_trips(horairesTriees, dataLine, direction);
+
+	co--;
+	console.info(co);
+	if (0 == co) print_trips();
+	//console.info(main_terminus);
+	//console.info(sec_terminus);
+};
+
+var add_trips = function (terminus) {
+	var index = terminus.route_id + '' + terminus.direction + '' + terminus.ref;
+	if (trips[index] == null) {
+		var service = 'lmmjv';
+		var sd = terminus.route_ref.substring(2, 3);
+		if (sd == 's') var service = 's';
+		if (sd == 'd') var service = 'd';
+		terminus.service = service;
+		terminus.index = index;
+		trips[index] = terminus;
+	}
+}
+
+var add_hours_to_trips = function(horairesTriees, dataLine, direction) {
 	// classement
 	for (i=0; i < horairesTriees.length; i++) {
+		var h = [horairesTriees[i], 0];
 		if (horairesTriees[i].length > 5) {
-			var h = horairesTriees[i].split('-');
-			for (j=0; j < sec_terminus.length; j++) {
-				if (sec_terminus[j].ref == h[1]) {
-					sec_terminus[j].times[sec_terminus[j].times.length] = h[0];
-				}
+			h = horairesTriees[i].split('-');
+		}
+		var index = dataLine.id + '' + direction + '' + h[1];
+		for (var tripIndex in trips) {
+			if (tripIndex == index) {
+				trips[index].times[trips[index].times.length] = h[0];
 			}
-		} else {
-			main_terminus.times[main_terminus.times.length] = horairesTriees[i];
 		}
 	}
-	console.info(main_terminus);
-	console.info(sec_terminus);
-};
+}
 
 var print_lines = function(lines) {
 	$('#lines').append('<div>');
@@ -267,10 +286,32 @@ var print_stops_indexed = function() {
 		$('#stops').append('</div>');
 	}
 };
+/*route_id,service_id,trip_id,trip_headsign,block_id
+A,WE,AWE1,Downtown,1
+A,WE,AWE2,Downtown,2*/
+var print_trips = function() {
+	$('#trips').append('<div>');
+	$('#trips').append('route_id,trip_id,trip_headsign,service_id');
+	$('#trips').append('</div>');
+	for (var i in trips) {
+		$('#trips').append('<div class="trip" id="trip-'+i+'">');
+		$('#trips').append(trips[i].route_id + ',');
+		$('#trips').append(trips[i].index + ',');
+		$('#trips').append(trips[i].name + ',');
+		$('#trips').append(trips[i].service);
+		$('#trips').append('</div>');
+	}
+};
 </script>
 </head>
 <body>
+<h2>routes.txt</h2>
 <div id="lines"></div>
+<h2>stops.txt</h2>
 <div id="stops"></div>
+<h2>trips.txt</h2>
+<div id="trips"></div>
+<h2>stop_times.txt</h2>
+<div id="stop_times"></div>
 </body>
 </html>
